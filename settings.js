@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'NOBITA Bot',
+  packname: '⋆｡‧˚ʚ 𝓝𝓞𝓑𝓘𝓣𝓐 🎀 𝓑𝓞𝓣 ɞ˚‧｡⋆',
   author: '‎',
-  botName: "Nobita Bot",
-  botOwner: 'NOBITA THE KING', // Your name
+  botName: "⋆｡‧˚ʚ 𝓝𝓞𝓑𝓘𝓣𝓐 🎀 𝓑𝓞𝓣 ɞ˚‧｡⋆",
+  botOwner: '⋆｡‧˚ʚ 𝓝𝓞𝓑𝓘𝓣𝓐 THE KING  ɞ˚‧｡⋆', // Your name
   ownerNumber: '12462580320', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
